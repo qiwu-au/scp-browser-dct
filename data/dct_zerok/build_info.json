@@ -1,0 +1,51 @@
+{
+  "dataset": "DCT cells, zero-K diet",
+  "built_utc": "2026-11-18T20:19:07+00:00",
+  "built_by": "Claude Code (Anthropic)",
+  "n_cells": 702,
+  "n_proteins": 5953,
+  "n_raw_cells": 767,
+  "n_detected_entries": 1227537,
+  "sources": [
+    {
+      "source": "browser compute module (scp_browser/compute.py)",
+      "sha256": "a08cab55042042aa62f4521e4f8ad8318afcbfc40fd3ca3da1df58c6313de6d8"
+    },
+    {
+      "source": "analysis object (702 cells x 5,953 proteins; intensities)",
+      "sha256": "df09ad0341e9fbee895334f72230c57b64df3e352711763b0ef7571b207c2fcc"
+    },
+    {
+      "source": "analysis object with the neighbour graph: UMAP",
+      "sha256": "6a062a1c181b237b21fc517588a8b5a13a2fcce8f8f7cb30dc6142ab0ba1732d"
+    },
+    {
+      "source": "cell-type annotation (Leiden 1.0 clusters; DCT marker list): per cell",
+      "sha256": "28d616cc6a73014ee93aa2799359621729fc63bb85c20058ae1536dfd8460239"
+    },
+    {
+      "source": "per-cell proliferation test (ProLIF cells)",
+      "sha256": "3c6c50c9ff8aac7cd83423cd16999321055cbde3603e89cc5185c41eb7eeda70"
+    },
+    {
+      "source": "per-cell QC (MitoCarta3.0 fractions)",
+      "sha256": "32f15a4cdfb47f3105dfded3706baef675602023234ba6113c61e2424cec110f"
+    },
+    {
+      "source": "raw Spectronaut export (control and zero-K runs in one search; PG.Quantity)",
+      "sha256": "3843a766bb96d289e5b80d2274ad522e735926d7c488ada087b1077fd10e26f9"
+    },
+    {
+      "source": "DCT marker list (Supplementary Table S2)",
+      "sha256": "f932801147ed1e4d08d857fb3b933c8a122b02a2e0701fd7a47082511b61d887"
+    },
+    {
+      "source": "cell-type annotation: per cluster, with marker evidence",
+      "sha256": "a9425e277ba8d0231e2958c1041bc10b697196a33e97d980aa7ecaeb3170e872"
+    },
+    {
+      "source": "marker order of the DCT marker dotplot",
+      "sha256": "923c8d2ee0c300b823ce03105f22faf9b229a2a0b3fd771591c6b49aa5383c85"
+    }
+  ]
+}

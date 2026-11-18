@@ -1,0 +1,72 @@
+[
+  {
+    "key": "dct1_dct2",
+    "name": "Cells annotated DCT1 or DCT2",
+    "label_set": "cell_type",
+    "values": [
+      [
+        "DCT1",
+        "DCT2"
+      ],
+      [
+        "DCT1",
+        "DCT2"
+      ]
+    ],
+    "n_cells": [
+      467,
+      449
+    ],
+    "reported": true
+  },
+  {
+    "key": "dct1",
+    "name": "DCT1",
+    "label_set": "cell_type",
+    "values": [
+      [
+        "DCT1"
+      ],
+      [
+        "DCT1"
+      ]
+    ],
+    "n_cells": [
+      382,
+      449
+    ],
+    "reported": false
+  },
+  {
+    "key": "unresolved",
+    "name": "DCT, subtype not resolved",
+    "label_set": "cell_type",
+    "values": [
+      [
+        "DCT, subtype not resolved"
+      ],
+      [
+        "DCT, subtype not resolved"
+      ]
+    ],
+    "n_cells": [
+      262,
+      253
+    ],
+    "reported": false
+  },
+  {
+    "key": "all",
+    "name": "All retained cells",
+    "label_set": null,
+    "values": [
+      null,
+      null
+    ],
+    "n_cells": [
+      729,
+      702
+    ],
+    "reported": false
+  }
+]

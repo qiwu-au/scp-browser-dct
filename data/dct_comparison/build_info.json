@@ -1,0 +1,54 @@
+{
+  "dataset": "DCT cells, control against zero-K diet",
+  "built_utc": "2026-11-18T20:19:17+00:00",
+  "built_by": "Claude Code (Anthropic)",
+  "n_cells_control": 729,
+  "n_cells_zero_k": 702,
+  "n_proteins_compared": 5897,
+  "n_proteins_control_only": 181,
+  "n_proteins_zero_k_only": 56,
+  "n_reported_proteins": 3684,
+  "n_panel_items": 28,
+  "sources": [
+    {
+      "source": "browser compute module (scp_browser/compute.py)",
+      "sha256": "a08cab55042042aa62f4521e4f8ad8318afcbfc40fd3ca3da1df58c6313de6d8"
+    },
+    {
+      "source": "browser data of the control cells: cells",
+      "sha256": "dde93a311fa570b021336163fe7d7bbec405ab8a2709fd4bdc9f584e95ecef42"
+    },
+    {
+      "source": "browser data of the control cells: proteins",
+      "sha256": "2e973addd226d437317a82708c691b44240b28269103c5e4b1f127555a46e185"
+    },
+    {
+      "source": "browser data of the control cells: values",
+      "sha256": "3454cc389125cec05edcf650fd0f2d6649b300c8f8f1f5c2a940e29b474f8494"
+    },
+    {
+      "source": "browser data of the zero-K cells: cells",
+      "sha256": "e49bb3b00c9169d97d41835353b2c302525dec1f3d822a09ce76f496c8ca46e9"
+    },
+    {
+      "source": "browser data of the zero-K cells: proteins",
+      "sha256": "cd8544de0ce1f468788e135cbf64a094dc3719a8d533160a558fe55798049de8"
+    },
+    {
+      "source": "browser data of the zero-K cells: values",
+      "sha256": "aa2f632a2e0811d28ee1246dce8e1dd72fffd1025720cfde92265b0e0d90229a"
+    },
+    {
+      "source": "stored comparison: per-protein results (cells annotated DCT1 or DCT2; ln(1 + intensity))",
+      "sha256": "8205cfa48910f86282e8734ae7e5b53069562d03251b741cfd0167a22e0a96de"
+    },
+    {
+      "source": "stored comparison: pre-specified panel results",
+      "sha256": "c090937bb77f36f16c616e9a6519a64022d66b9d8426d918eed0ac61601b5b8f"
+    },
+    {
+      "source": "protein groups retained in one condition only",
+      "sha256": "a6e38c80edb8aa95213d4eff06350fd513359b7e700ae81889909dc7d143b6be"
+    }
+  ]
+}

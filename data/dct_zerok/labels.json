@@ -1,0 +1,50 @@
+{
+  "cell_type": {
+    "order": [
+      "DCT1",
+      "DCT, subtype not resolved"
+    ],
+    "colors": {
+      "DCT1": "#1f77b4",
+      "DCT, subtype not resolved": "#B3B3B3"
+    },
+    "counts": {
+      "DCT1": 449,
+      "DCT, subtype not resolved": 253
+    }
+  },
+  "cell_type_prolif": {
+    "order": [
+      "DCT1",
+      "ProLIF",
+      "DCT, subtype not resolved"
+    ],
+    "colors": {
+      "DCT1": "#1f77b4",
+      "ProLIF": "#2ca02c",
+      "DCT, subtype not resolved": "#B3B3B3"
+    },
+    "counts": {
+      "DCT1": 402,
+      "ProLIF": 63,
+      "DCT, subtype not resolved": 237
+    }
+  },
+  "cell_type_transferred": {
+    "order": [
+      "DCT1",
+      "DCT2",
+      "DCT, subtype not resolved"
+    ],
+    "colors": {
+      "DCT1": "#1f77b4",
+      "DCT2": "#ff7f0e",
+      "DCT, subtype not resolved": "#B3B3B3"
+    },
+    "counts": {
+      "DCT1": 398,
+      "DCT2": 68,
+      "DCT, subtype not resolved": 236
+    }
+  }
+}
