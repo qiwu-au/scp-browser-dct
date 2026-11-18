@@ -4,7 +4,7 @@ Single-cell proteomics (SCP-MS) of mouse distal convoluted tubule (DCT) cells on
 
 - Raw data: ProteomeXchange / PRIDE (accession to be added on publication).
 - Processed objects: Zenodo (DOI to be added on publication).
-- Code: repository to be added on publication.
+- Code: [github.com/qiwu-au/scp_mouse_kidney_dct](https://github.com/qiwu-au/scp_mouse_kidney_dct).
 
 ### Experiment
 
