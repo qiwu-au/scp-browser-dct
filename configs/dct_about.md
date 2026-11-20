@@ -2,8 +2,8 @@
 
 Single-cell proteomics (SCP-MS) of mouse distal convoluted tubule (DCT) cells on a control diet and on a zero-potassium (zero-K) diet, as reported in the accompanying manuscript (title and DOI to be added on publication).
 
-- Raw data: ProteomeXchange / PRIDE (accession to be added on publication).
-- Processed objects: Zenodo (DOI to be added on publication).
+- Raw data: ProteomeXchange / PRIDE **PXD087695**.
+- Processed objects: Zenodo, [doi.org/10.5281/zenodo.24365599](https://doi.org/10.5281/zenodo.24365599).
 - Code: [github.com/qiwu-au/scp_mouse_kidney_dct](https://github.com/qiwu-au/scp_mouse_kidney_dct).
 
 ### Experiment
